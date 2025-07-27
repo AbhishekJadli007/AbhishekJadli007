@@ -3,6 +3,7 @@
 
 🔭 I’m currently working on<br>AI pipelines, RAG chatbots using LangChain, and backend development (REST APIs).<br><br>🤝 I’m looking to collaborate on<br>Open-source GenAI tools and Python-based automation.<br><br>🧠 I’m looking for help with<br>LLM optimization, scalable AI deployment, and advanced competitive programming.<br><br>🌱 I’m currently learning<br>Machine learning algorithms and LLM fine-tuning.<br><br>💬 Ask me about<br>LangChain, RAG, GenAI, Data Structures & Algorithms, and CP in C++.
 
+## Resume Link : https://drive.google.com/file/d/1GjCKlECrhqrHN1rsx0yf49H1Z80LXCK_/view?usp=drive_link
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-jadli-76021828a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jadlijodabhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekjadli2004@gmail.com) 
